@@ -8,4 +8,12 @@ Estudiante de la Tecnicatura en Programación UTNfrsr 👩‍💻
 
 ▸**HTML - CSS - Python - Java - R**
 
+<br>
+
+<div align="center">
+  <h2>Contacto</h2>
+<a target="_blank" href="https://github.com/Ro07-r/Ro07-r">
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="drawing" width="30"></a>
+  <a target="_blank" href="">
+    </div>
 
