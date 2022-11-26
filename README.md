@@ -14,7 +14,7 @@ Estudiante de la Tecnicatura en Programación UTNfrsr 👩‍💻
   <h2>Contacto</h2>
   <a target="_blank" href="https://github.com/Ro07-r">
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="drawing" width="40"></a>
-  <a target="_blank" (mailto:rosalia-lotierzo@hotmail.com)>
+  <a target="_blank" href="mailto:rosalia-lotierzo@hotmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/4946/4946005.png" alt="drawing" width="40"></a>
 </div>
  
