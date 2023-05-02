@@ -13,7 +13,7 @@ Estudiante de la Tecnicatura en Programación UTNfrsr 👩‍💻
 
 <br>
 <br>
-<div align="center"> <h2>* :email: Contacto</h2>
+<div align="center"> <h2>- :gmail: Contacto</h2>
 
 
 </div>
