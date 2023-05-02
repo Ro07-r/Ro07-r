@@ -12,6 +12,7 @@ Estudiante de la Tecnicatura en Programación UTNfrsr 👩‍💻
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"> </p>
 
 <br>
-<div align="center"> <h2><li>📧 Contacto</li></h2>
-**lotierzorosalia@gmail.com**
+<div align="center"> <h2>Contacto</h2>
+📫 <a href="mailto:rosalia-lotierzo@hotmail.com">
+rosalia-lotierzo@hotmail.com</a> 
 </div>
