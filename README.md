@@ -10,9 +10,13 @@ Estudiante de la Tecnicatura en Programación UTNfrsr 👩‍💻
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40">
 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"> </p>
+ <br>
 
-<br>
-<div align="center"> <h2>Contacto</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&width=435&lines=Contact+me:)](https://git.io/typing-svg)
+<div align="center"> 
 📫 <a href="mailto:rosalia-lotierzo@hotmail.com">
 rosalia-lotierzo@hotmail.com</a> 
 </div>
+
+
+ 
