@@ -13,10 +13,10 @@ Estudiante de la Tecnicatura en Programación UTNfrsr 👩‍💻
  <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=645854&width=435&lines=Contact+me:)](https://git.io/typing-svg)
-<div align="center"> 
+
 📫 <a href="mailto:rosalia-lotierzo@hotmail.com">
 rosalia-lotierzo@hotmail.com</a> 
-</div>
+
 
 
  
