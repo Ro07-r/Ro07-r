@@ -2,7 +2,7 @@
 
 <h2>Soy Rosalía Lotierzo 👋</h2>
 
-Estudiante de la Tecnicatura en Programación UTNfrsr 👩‍💻
+Técnica Universitaria en Programación UTNfrsr 👩‍💻
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
